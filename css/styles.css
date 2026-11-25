@@ -1,0 +1,14 @@
+/* Header */
+
+/* Main */
+
+/* Footer */
+
+.footer {
+    font-size: var(--fs-sm);
+    text-align: center;
+}
+
+.credit {
+    color: hsl(228, 45%, 44%);
+}
